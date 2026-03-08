@@ -29,4 +29,4 @@ Results upload to the public leaderboard. [Get started →](https://github.com/p
 
 ---
 
-*Claw-some AI agent testing* 🦞
+*Claw-some AI agent testing. Made with 🦀 by the humans at https://kilo.ai* 🦞
