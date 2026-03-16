@@ -14,6 +14,8 @@ PinchBench measures how well LLM models perform as the brain of an [OpenClaw](ht
 |------|-------------|
 | [**skill**](https://github.com/pinchbench/skill) | Benchmark runner and task definitions — run it yourself |
 | [**leaderboard**](https://github.com/pinchbench/leaderboard) | The pinchbench.com leaderboard frontend |
+| [**api**](https://github.com/pinchbench/api) | The public PinchBench API at api.pinchbench.com |
+| [**scripts**](https://github.com/pinchbench/scripts) | The offical PinchBench run automation with `default_models.yml`  |
 
 ---
 
